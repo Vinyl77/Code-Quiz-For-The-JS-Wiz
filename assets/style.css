@@ -1,0 +1,150 @@
+   
+        body{
+         background-color: rgb(54, 68, 54);
+            
+        }
+        #container {
+          position: absolute;
+          left: 30%;
+          top: 20%;
+          width: 500px;
+          height: 500px;
+          font-family: 'Abril Fatface', cursive;
+          color: white;
+          
+      }
+      #startTime{
+          background-color:teal;
+          margin-left: 33%;
+          padding: 15px 32px;
+          font-size: 20px;
+          color: white;
+          font-family: 'Abril Fatface', cursive;
+      }
+      #questionsDiv {
+          margin: 20px;
+          color: white;
+        
+          
+      }
+
+      #runTime {
+          float: right;
+          color:white;
+          padding:10px;
+          text-decoration: underline;
+      }
+
+      #goBack {
+          background-color:teal;
+          position: relative;
+          padding: 10px;
+          font-size: 20px;
+          color: white;
+          top: 30%;
+          left: 55%;
+          width: auto;
+          text-align: center;
+          text-decoration: none;
+          position:relative;
+          left: 55%;
+          font-family: 'Abril Fatface', cursive;
+      }
+
+
+
+      #clear {
+          background-color:teal;
+          position: relative;
+          padding: 10px;
+          font-size: 20px;
+          color: white;
+          top: 30%;
+          right: 5%;
+          text-align: center;
+          font-family: 'Abril Fatface', cursive;
+          position: relative;
+          right: 5%
+      }
+
+      button {
+          border-radius: 8px;
+          background-color:teal;
+      }
+
+      textarea {
+          width: 90%;
+          margin: 20px;
+          
+        
+      }
+
+      #Submit {
+          background-color:teal;
+          margin-left: 33%;
+          padding: 15px 32px;
+          font-size: 20px;
+          color: white;
+          font-family: 'Abril Fatface', cursive;
+      }
+
+      label {
+          margin-right: 10px;
+        
+      }
+      input {
+          margin-bottom: 20px;
+          width: 50%;
+          font-family: 'Abril Fatface', cursive;
+          background-color: teal;
+          color: white;
+
+          
+          
+      }
+
+      p{
+          color:white;
+      }
+
+      h1 {
+          text-align: center;
+          font-family: 'Abril Fatface', cursive;
+          color:white;
+          text-decoration: underline;
+          
+      }
+
+      li {
+          background-color:teal;
+          margin-top: 10px;
+          padding: 5px 15px;
+          width: 80%;
+          font-size: 18px;
+          color: white;
+          border-radius: 8px;
+          list-style-type: none;
+        
+          
+      }
+
+      #createDiv {
+          display:flex;
+          margin-top: 20px;
+          justify-content: center;
+          
+      }
+
+      a {
+        display: flex;
+        font-family: 'Abril Fatface', cursive;
+        color:white;
+        justify-content: center;
+        padding:15px 5px 15px 5px ;
+        font-size: 40px;
+        background-color: teal;
+        border-radius: 10px;
+    
+        
+    }
+    
